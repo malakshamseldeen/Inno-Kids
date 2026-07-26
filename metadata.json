@@ -1,0 +1,6 @@
+{
+  "name": "InnoKids",
+  "description": "AI-powered gamified learning platform for kids with mascot Inno, interactive challenges, safe AI assistant, parent dashboard, and custom avatar customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
